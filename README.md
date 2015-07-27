@@ -8,7 +8,7 @@ operations.
 **Note:** This is a simple implementation (a starting point) that may not collect all
 of the data-points you may need (e.g., no percentiles, only averages).
 Suggestions are welcome. Please add them to
-[issues](/issues) (and / or PR).
+[issues](https://github.com/dowjones/distribucache-stats/issues) (and / or PR).
 
 
 ## Usage
