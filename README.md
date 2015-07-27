@@ -7,7 +7,7 @@ operations.
 
 **Note:** This is a simple implementation (a starting point) that may not collect all
 of the data-points you may need (e.g., no percentiles, only averages).
-If you have suggestions or specific needs, please add them to
+Suggestions are welcome. Please add them to
 [issues](/issues) (and / or PR).
 
 
